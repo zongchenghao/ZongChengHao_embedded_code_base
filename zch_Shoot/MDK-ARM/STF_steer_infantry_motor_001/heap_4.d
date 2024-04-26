@@ -1,0 +1,13 @@
+stf_steer_infantry_motor_001\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+stf_steer_infantry_motor_001\heap_4.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+stf_steer_infantry_motor_001\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+stf_steer_infantry_motor_001\heap_4.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+stf_steer_infantry_motor_001\heap_4.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+stf_steer_infantry_motor_001\heap_4.o: ../Core/Inc/FreeRTOSConfig.h
+stf_steer_infantry_motor_001\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+stf_steer_infantry_motor_001\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+stf_steer_infantry_motor_001\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+stf_steer_infantry_motor_001\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+stf_steer_infantry_motor_001\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+stf_steer_infantry_motor_001\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+stf_steer_infantry_motor_001\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

@@ -1,0 +1,10 @@
+stf_steer_infantry_motor_001\kalman_filter.o: ..\Components\algorithms\kalman_filter.c
+stf_steer_infantry_motor_001\kalman_filter.o: ..\Components\algorithms\kalman_filter.h
+stf_steer_infantry_motor_001\kalman_filter.o: ..\Components\algorithms\arm_math.h
+stf_steer_infantry_motor_001\kalman_filter.o: ../Drivers/CMSIS/Include/core_cm4.h
+stf_steer_infantry_motor_001\kalman_filter.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+stf_steer_infantry_motor_001\kalman_filter.o: ../Drivers/CMSIS/Include/cmsis_version.h
+stf_steer_infantry_motor_001\kalman_filter.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+stf_steer_infantry_motor_001\kalman_filter.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+stf_steer_infantry_motor_001\kalman_filter.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+stf_steer_infantry_motor_001\kalman_filter.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
